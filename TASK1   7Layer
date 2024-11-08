@@ -1,4 +1,4 @@
-seven-layer-auth
+seven-layer-authentication
 config
     db.js
 controllers
