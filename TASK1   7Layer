@@ -1,0 +1,18 @@
+seven-layer-auth
+config
+    db.js
+controllers
+ authController.js
+ models
+   userModel.js
+ routes
+   authRoutes.js
+services
+  authService.js
+utils
+  hashPassword.js
+middlewares
+  validateUser.js
+.env
+  app.js
+ package.json
